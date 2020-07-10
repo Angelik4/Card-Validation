@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tarjeta de crédito válida
 
 ## Índice
@@ -311,3 +312,7 @@ Organización del Trabajo:
   esperamos que hagas todo eso desde este proyecto. Iremos profundizando poco a
   poco a lo largo del -_bootcamp_.
 * [Blog: cómo funciona el algoritmo de Luhn](http://www.quobit.mx/asi-funciona-el-algoritmo-de-luhn-para-generar-numeros-de-tarjetas-de-credito.html).
+=======
+# Proyecto-tarjeta-de-credito-
+Proyecto de validación de una tarjeta de crédito. 
+>>>>>>> 3f11d7f62cd90ab6d61478be677560f7614c1df6

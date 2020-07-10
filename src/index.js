@@ -45,8 +45,7 @@ let numero = document.formtarjeta.number.value;
 let numMasky= validator.maskify(numero);
 let inputNombre=document.getElementById('inputNombre');
 let esValida= validator.isValid(numero);
-let imgApro= document.getElementById('imageAprobacion');
-    imgApro.src= 'images/Aprobacion.jpg';
+
     
 
 
@@ -62,7 +61,7 @@ if (numero === '') {
 if(esValida){
     numero = document.formtarjeta.number.value;
     document.getElementById('vista3').innerHTML=inputNombre.value.toUpperCase() +' '+ 
-    'Tu tarjeta de credito'+ ' ' + numMasky +' '+ 'es valida' + imgApro;
+    'Tu tarjeta de credito'+ ' ' + numMasky +' '+ 'es valida';
     
    
     

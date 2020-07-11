@@ -1,33 +1,32 @@
-# Tarjeta de crédito válida `README.md`
+# Tarjeta de crédito válida 
 
 ## Índice
 
-* [1. Resumen del Proyecto](###1-resumen-del-proyecto)
-* [2. Imagen final de tu proyecto.](##2-imagen-final-de-tu-proyecto)
-* [3. Investigación UX](###3-investigación-ux)
-* [4. Primer prototipo en papel.](###4-consideraciones-generales)
-* [5. Objetivos de aprendizaje](##5-objetivos-de-aprendizaje)
-* [6. Definición del producto](###6-definición-del-producto)
+* [1. Resumen del Proyecto](#1-resumen-del-proyecto)
+* [2. Imagen final de tu proyecto.](#2-imagen-final-de-tu-proyecto)
+* [3. Investigación UX](#3-investigación-ux)
+* [4. Primer prototipo en papel.](#4-consideraciones-generales)
+* [5. Objetivos de aprendizaje](#5-objetivos-de-aprendizaje)
+* [6. Definición del producto](#6-definición-del-producto)
 
 ***
 
 
-____
 
-## Proyecto Tuticket.com
+# Proyecto Yourticket.com
 
-### 1. Resumen del proyecto 
+## 1. Resumen del proyecto 
 
  * El proyecto consiste en la validación de una tarjeta de crédito de acuerdo al algoritmo de Luhn, luego dar el resultado al usuario donde todos menos los últimos cuatro caracteres sean reemplazados por un numeral (#).
 
 ## 2. Imagen final de tu proyecto.
 
-![Prototipo final vista 1](Prototipo final (1).png)
-![Prototipo final vista 2](Prototipo final (2).png)
-![Prototipo final vista 3](Prototipo final(3).png)
-![Prototipo final vista 4](Prototipo final  (4).png)
+![Prototipo final vista 1](https://github.com/Angelik4/Proyecto-tarjeta-de-credito-/blob/master/Prototipo%20final%20(1).png)
+![Prototipo final vista 2](https://github.com/Angelik4/Proyecto-tarjeta-de-credito-/blob/master/Prototipo%20final%20(2).png)
+![Prototipo final vista 3](https://github.com/Angelik4/Proyecto-tarjeta-de-credito-/blob/master/Prototipo%20final(3).png)
+![Prototipo final vista 4](https://github.com/Angelik4/Proyecto-tarjeta-de-credito-/blob/master/Prototipo%20final%20%20(4).png)
 
-### 3. Investigación UX:
+## 3. Investigación UX:
 
   1. Nuestros usuarios validaran la tarjeta de crédito para la compra de unas boletas de un concierto de electrónica y el proceso de validación se realiza de manera corta y rapida. 
   Personas que tal vez no tienen mucho conocimiento en compra en línea y a quienes se les facilitaría la compra. 
@@ -36,7 +35,7 @@ ____
 
   ### 4. Primer prototipo en papel.
 
-  ![Prototipo en papel](Prototipo papel.jpg)
+  ![Prototipo en papel](https://github.com/Angelik4/Proyecto-tarjeta-de-credito-/blob/master/Prototipo%20papel.jpg)
 
 
 ## 5. Objetivos de aprendizaje
@@ -86,7 +85,7 @@ ____
 
 
 
-### 6. Definición del producto
+## 6. Definición del producto
 
 
 * Mis principales usuarios son personas a partir de los 18 años, que pueden asistir a este tipo de eventos y amantes de la musica electronica. Personas que tienen la adquisición economica para la compra y que manejan tarjeta de credito.
@@ -96,8 +95,3 @@ ____
 * Poder encontrar los datos en su tarjeta de crédito de manera rápida y concisa, sin necesidad de datos innecesarios para el usuario. 
 
 * La pagina es simplificada y rapida en el producto, ademas de ser descriptiva cuando se entra.
-
-
-
-
-

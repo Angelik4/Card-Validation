@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Tarjeta de crédito válida
 
 ## Índice
@@ -140,17 +139,31 @@ Estos puntos los presentarás en el `README.md`.
 
 Debe contener lo siguiente:
 
-* Un título con el nombre de tu proyecto.
-* Un resumen de 1 o 2 líneas de qué se trata tu proyecto.
-* La imagen final de tu proyecto.
+# Proyect Card Validator.
+
+## Resumen del proyecto.
+
+* El proyecto consiste en la validación de una tarjeta de crédito de acuerdo al algoritmo de Luhn, luego dar el resultado al usuario donde todos menos los últimos cuatro caracteres sean reemplazados por un numeral (#).
+
+## Imagen final del proyecto.
+
+![Prototipo final](Prototipo final (1).png)
+![Prototipo final2](Prototipo final (2).png)
+![Prototipo final3](Prototipo final(3).png)
+![Prototipo fina4](Prototipo final  (4).png)
 * Investigación UX:
-  1. Explicar quiénes son los usuarios y los objetivos en relación con el
-    producto.
-  2. Explicar cómo el producto soluciona los problemas/necesidades de dichos
-    usuarios.
-  3. Luego colocarás la foto de tu primer prototipo en papel.
-  4. Agregar un resumen del feedback recibido indicando las mejoras a realizar.
-  5. Imagen del prototipo final.
+
+  1. Nuestros usuarios validaran la tarjeta de crédito para la compra de unas boletas de un concierto de       electrónica.
+     Personas que tal vez no tienen mucho conocimiento en compra en línea y a quienes se les facilitaría la compra. 
+
+  2. Hicimos el proceso de manera corta y validando los datos de la tarjeta de crédito, en donde la persona encuentra ubicados los espacios a rellenar justo en donde se ubican en su tarjeta, de esta manera sabrá en donde se encuentran exactamente y cuales son. 
+
+  3. ## Prototipo en papel.
+
+   ![prototipo en papel](Prototipo papel.jpg)
+
+
+  
 
 #### Visualmente (HTML y CSS)
 
@@ -312,7 +325,3 @@ Organización del Trabajo:
   esperamos que hagas todo eso desde este proyecto. Iremos profundizando poco a
   poco a lo largo del -_bootcamp_.
 * [Blog: cómo funciona el algoritmo de Luhn](http://www.quobit.mx/asi-funciona-el-algoritmo-de-luhn-para-generar-numeros-de-tarjetas-de-credito.html).
-=======
-# Proyecto-tarjeta-de-credito-
-Proyecto de validación de una tarjeta de crédito. 
->>>>>>> 3f11d7f62cd90ab6d61478be677560f7614c1df6

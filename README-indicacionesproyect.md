@@ -17,14 +17,17 @@
 
 ## 1. Resumen del proyecto 
 
- * El proyecto consiste en la validación de una tarjeta de crédito de acuerdo al algoritmo de Luhn, luego dar el resultado al usuario donde todos menos los últimos cuatro caracteres sean reemplazados por un numeral (#).
+El proyecto consiste en la validación de una tarjeta de crédito de acuerdo al algoritmo de Luhn, luego dar el resultado al usuario donde todos menos los últimos cuatro caracteres sean reemplazados por un numeral (#).
 
 ## 2. Imagen final de tu proyecto.
 
-![Prototipo final vista 1](https://github.com/Angelik4/Proyecto-tarjeta-de-credito-/blob/master/Prototipo%20final%20(1).png)
-![Prototipo final vista 2](https://github.com/Angelik4/Proyecto-tarjeta-de-credito-/blob/master/Prototipo%20final%20(2).png)
-![Prototipo final vista 3](https://github.com/Angelik4/Proyecto-tarjeta-de-credito-/blob/master/Prototipo%20final(3).png)
-![Prototipo final vista 4](https://github.com/Angelik4/Proyecto-tarjeta-de-credito-/blob/master/Prototipo%20final%20%20(4).png)
+![Prototipo final vista 1](images/Prototipo_final(1).png)
+
+![Prototipo final vista 2](images/Prototipo_final(2).png)
+
+![Prototipo final vista 3](images/Prototipo_final(3).png)
+
+![Prototipo final vista 4](images/Prototipo_final(4).png)
 
 ## 3. Investigación UX:
 
@@ -33,9 +36,9 @@
 
   2. Hicimos el proceso de manera corta y validando los datos de la tarjeta de crédito, en donde la persona encuentra ubicados los espacios a rellenar justo en donde se ubican en su tarjeta, de esta manera sabrá en donde se encuentran exactamente y cuales son. 
 
-  ### 4. Primer prototipo en papel.
+  ## 4. Primer prototipo en papel.
 
-  ![Prototipo en papel](https://github.com/Angelik4/Proyecto-tarjeta-de-credito-/blob/master/Prototipo%20papel.jpg)
+  ![Prototipo en papel](images/Prototipo_papel.jpg)
 
 
 ## 5. Objetivos de aprendizaje

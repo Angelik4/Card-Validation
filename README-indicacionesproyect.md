@@ -21,13 +21,13 @@ El proyecto consiste en la validación de una tarjeta de crédito de acuerdo al 
 
 ## 2. Imagen final de tu proyecto.
 
-![Prototipo final vista 1](images/Prototipo_final(1).png)
+![Prototipo final vista 1](https://github.com/Angelik4/Proyecto-tarjeta-de-credito-/blob/master/src/images/Prototipo_final(1).png)
 
-![Prototipo final vista 2](images/Prototipo_final(2).png)
+![Prototipo final vista 2](https://github.com/Angelik4/Proyecto-tarjeta-de-credito-/blob/master/src/images/Prototipo_final(2).png)
 
-![Prototipo final vista 3](images/Prototipo_final(3).png)
+![Prototipo final vista 3](https://github.com/Angelik4/Proyecto-tarjeta-de-credito-/blob/master/src/images/Prototipo_final(3).png)
 
-![Prototipo final vista 4](images/Prototipo_final(4).png)
+![Prototipo final vista 4](https://github.com/Angelik4/Proyecto-tarjeta-de-credito-/blob/master/src/images/Prototipo_final(4).png)
 
 ## 3. Investigación UX:
 
@@ -38,7 +38,7 @@ El proyecto consiste en la validación de una tarjeta de crédito de acuerdo al 
 
   ## 4. Primer prototipo en papel.
 
-  ![Prototipo en papel](images/Prototipo_papel.jpg)
+  ![Prototipo en papel](https://github.com/Angelik4/Proyecto-tarjeta-de-credito-/blob/master/src/images/Prototipo_%20papel.jpg)
 
 
 ## 5. Objetivos de aprendizaje
